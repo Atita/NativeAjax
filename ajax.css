@@ -1,0 +1,15 @@
+button {
+	font-family: 'Courier New', Courier, monospace
+}
+body {
+	
+	font-family: 'Times New Roman', Times, serif;
+	background-color: white;
+}
+
+#text {
+	color: brown;
+	margin-top: 30px;
+	display: flex;
+	background-color: aqua;
+}
